@@ -28,3 +28,17 @@ In the candidate region selection step, the base model `YOLOv3`, trained on COCO
 ![demo-output](https://github.com/kumarapurv/E-scooter-Rider-Detection-System-in-Driving-Environments/blob/main/results/demo_output.gif)
 
 The e-scooter riders are colored in green and others are colored in yellow.
+
+# Cite as:
+```
+arXiv:2111.14060
+```
+or
+```
+@article{apurv2021detection,
+  title={Detection of E-scooter Riders in Naturalistic Scenes},
+  author={Apurv, Kumar and Tian, Renran and Sherony, Rini},
+  journal={arXiv preprint arXiv:2111.14060},
+  year={2021}
+}
+```
